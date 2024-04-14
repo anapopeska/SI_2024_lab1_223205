@@ -9,7 +9,7 @@ public class SILab1_1 {
                 result.add(el);
             }
         }
-        return result;
+        return result
     }
 
 
