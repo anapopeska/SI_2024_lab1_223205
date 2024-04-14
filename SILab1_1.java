@@ -9,8 +9,9 @@ public class SILab1_1 {
                 result.add(el);
             }
         }
-        return result
+        return result;
     }
 
+     System.out.println(SILab1_1.filterOddLengthStrings(list));
 
 }
